@@ -1,3 +1,15 @@
-header{
+.cabeçalho{
 background-color: #5CACC4;
+color: #0F0101;
+
+}
+.logo{
+width: 176px;
+position: relative;
+top: 33px;
+left: 150px;
+}
+.item{
+    font-size: 32px;
+    color: chocolate
 }
